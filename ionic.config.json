@@ -1,0 +1,7 @@
+{
+  "name": "ionic4-upload-sample",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
